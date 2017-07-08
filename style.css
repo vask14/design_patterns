@@ -1,0 +1,8 @@
+div#bill{
+    border: 2px solid cadetblue;
+    text-align: center;
+    background-color: azure;
+    width: 320px;
+    height: 215px;
+    margin: auto;
+}
